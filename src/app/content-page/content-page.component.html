@@ -1,0 +1,24 @@
+<content-page className="center-container flex-columns">
+    <MediaQuery minDeviceWidth={configs.MIN_PC_SCREEN_WIDTH}>
+        <div className="pane flex-rows center-top-container">
+            <div className="generator-pane">
+                <div className="teams-container">
+                    <TeamsTable className="redteam"
+                                teamPlayerKeys={storeState.teams[configs.RED]}/>
+                        <TeamsPie columns={storeState.columns}/>
+                            <TeamsTable className="blueteam"
+                                        teamPlayerKeys={storeState.teams[configs.BLUE]}/>
+                </div>
+                <div className="power-pie-controller">
+                    <GameButton name="Build" color="primary" action={actions.buildTeams}
+                                store={this.props.store}/>
+                        {/*<GameButton name="Copy"/>*/}
+                </div>
+            </div>
+        </div>
+    </MediaQuery>
+    <div className="flex-rows center-bottom-container">
+        <GameList store={this.props.store}/>
+            <GameDetails store={this.props.store}/>
+    </div>
+</content-page>

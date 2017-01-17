@@ -1,0 +1,78 @@
+@-webkit-keyframes swinging {
+    0% {
+        -webkit-transform: rotate(140deg);
+    }
+    100% {
+        -webkit-transform: rotate(220deg);
+    }
+}
+.container {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+}
+.string {
+    position: absolute;
+    width: 10px;
+    height: 80px;
+    margin: 0 35px;
+    -webkit-animation: swinging alternate 0.3s ease-in-out infinite;
+    top: 1px;
+}
+
+.marbles {
+    border-radius: 50%;
+    background-color: #809e2f;
+    width: 10px;
+    height: 10px;
+}
+
+.string2 {
+    top: 10px;
+    -webkit-animation-duration: 0.33333s;
+}
+
+.marble2 {
+    width: 9px;
+    height: 9px;
+}
+
+.string3 {
+    top: 18px;
+    -webkit-animation-duration: 0.375s;
+}
+
+.marble3 {
+    width: 8px;
+    height: 8px;
+}
+
+.string4 {
+    top: 24px;
+    -webkit-animation-duration: 0.42857s;
+}
+
+.marble4 {
+    width: 7px;
+    height: 7px;
+}
+
+.string5 {
+    top: 28px;
+    -webkit-animation-duration: 0.5s;
+}
+
+.marble5 {
+    width: 6px;
+    height: 6px;
+}
+
+.string6 {
+    top: 30px;
+    -webkit-animation-duration: 0.6s;
+}
+
+.marble6 {
+    width: 5px;
+    height: 5px;
+}
