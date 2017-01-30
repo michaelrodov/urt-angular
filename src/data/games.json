@@ -1,0 +1,4330 @@
+{
+  "games": {
+    "26_mykonos_a17": {
+      "gameId": "26_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:12 ",
+      "gameTotalDeaths": 116,
+      "gameTotalScore": 610,
+      "gameLength": "15:43",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 36,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 86,
+          "flagCaptures": 3,
+          "flagReturns": 6,
+          "flagSteals": 8,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 21
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 19,
+          "kills": 36,
+          "gamesPlayed": 1,
+          "score": 224,
+          "flagCaptures": 8,
+          "flagReturns": 17,
+          "flagSteals": 17,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 35
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 29,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 202,
+          "flagCaptures": 4,
+          "flagReturns": 13,
+          "flagSteals": 8,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 30
+          }
+        },
+        "Ed": {
+          "deaths": 32,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 98,
+          "flagCaptures": 1,
+          "flagReturns": 7,
+          "flagSteals": 16,
+          "name": "Ed",
+          "weapons": {
+            "M4": 26
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "MAMBA",
+        "1": "PanzerjagerTiger",
+        "2": "Ed",
+        "3": "**KILAKA**"
+      }
+    },
+    "17_mykonos_a17": {
+      "gameId": "17_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:19 ",
+      "gameTotalDeaths": 222,
+      "gameTotalScore": 1171,
+      "gameLength": "16:21",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 38,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 87,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 8,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 27
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 25,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 275,
+          "flagCaptures": 4,
+          "flagReturns": 10,
+          "flagSteals": 12,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 30
+          }
+        },
+        "benD": {
+          "deaths": 28,
+          "kills": 57,
+          "gamesPlayed": 1,
+          "score": 360,
+          "flagCaptures": 11,
+          "flagReturns": 24,
+          "flagSteals": 18,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 2,
+            "LR300": 53
+          }
+        },
+        "Kobi": {
+          "deaths": 45,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 108,
+          "flagCaptures": 2,
+          "flagReturns": 5,
+          "flagSteals": 11,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 32
+          }
+        },
+        "Dvir": {
+          "deaths": 10,
+          "kills": 11,
+          "gamesPlayed": 1,
+          "score": 0,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 1,
+          "name": "Dvir",
+          "weapons": {
+            "AK103": 11
+          }
+        },
+        "godfather": {
+          "deaths": 11,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 0,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 2,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 3,
+            "M4": 5
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 31,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 90,
+          "flagCaptures": 0,
+          "flagReturns": 7,
+          "flagSteals": 11,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 26
+          }
+        },
+        "TAl": {
+          "deaths": 34,
+          "kills": 25,
+          "gamesPlayed": 1,
+          "score": 251,
+          "flagCaptures": 3,
+          "flagReturns": 5,
+          "flagSteals": 11,
+          "name": "TAl",
+          "weapons": {
+            "M4": 25
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "PanzerjagerTiger",
+        "1": "MAMBA",
+        "2": "godfather",
+        "3": "**KILAKA**",
+        "4": "Kobi",
+        "5": "TAl",
+        "6": "Dvir",
+        "7": "benD"
+      }
+    },
+    "23_mykonos_a17": {
+      "gameId": "23_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:14  blue:4 ",
+      "gameTotalDeaths": 278,
+      "gameTotalScore": 1276,
+      "gameLength": "15:40",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 43,
+          "kills": 30,
+          "gamesPlayed": 1,
+          "score": 117,
+          "flagCaptures": 1,
+          "flagReturns": 9,
+          "flagSteals": 8,
+          "name": "Bar",
+          "weapons": {
+            "M4": 29
+          }
+        },
+        "MAMBA": {
+          "deaths": 34,
+          "kills": 37,
+          "gamesPlayed": 1,
+          "score": 117,
+          "flagCaptures": 0,
+          "flagReturns": 8,
+          "flagSteals": 6,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 33,
+            "UMP45": 1
+          }
+        },
+        "King": {
+          "deaths": 36,
+          "kills": 7,
+          "gamesPlayed": 1,
+          "score": 158,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "King",
+          "weapons": {
+            "M4": 6
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 30,
+          "kills": 49,
+          "gamesPlayed": 1,
+          "score": 217,
+          "flagCaptures": 3,
+          "flagReturns": 9,
+          "flagSteals": 9,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 46
+          }
+        },
+        "benD": {
+          "deaths": 28,
+          "kills": 53,
+          "gamesPlayed": 1,
+          "score": 247,
+          "flagCaptures": 4,
+          "flagReturns": 13,
+          "flagSteals": 12,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 2,
+            "LR300": 50,
+            "HEGRENADE": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 35,
+          "kills": 41,
+          "gamesPlayed": 1,
+          "score": 229,
+          "flagCaptures": 6,
+          "flagReturns": 9,
+          "flagSteals": 14,
+          "name": "Kobi",
+          "weapons": {
+            "P90": 2,
+            "M4": 35,
+            "HEGRENADE": 3
+          }
+        },
+        "TAl": {
+          "deaths": 38,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 97,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "TAl",
+          "weapons": {
+            "M4": 28,
+            "HEGRENADE": 4
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 34,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 94,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 6,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 28
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "MAMBA",
+        "2": "TAl",
+        "3": "PanzerjagerTiger",
+        "4": "benD",
+        "5": "King",
+        "6": "Bar",
+        "7": "Kobi"
+      }
+    },
+    "29_algiers": {
+      "gameId": "29_algiers",
+      "mapName": "algiers",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:15  blue:3 ",
+      "gameTotalDeaths": 166,
+      "gameTotalScore": 937,
+      "gameLength": "15:40",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 30,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 81,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 24,
+            "HEGRENADE": 1
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 25,
+          "kills": 39,
+          "gamesPlayed": 1,
+          "score": 240,
+          "flagCaptures": 6,
+          "flagReturns": 12,
+          "flagSteals": 14,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 35
+          }
+        },
+        "Kobi": {
+          "deaths": 27,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 230,
+          "flagCaptures": 6,
+          "flagReturns": 11,
+          "flagSteals": 13,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 28
+          }
+        },
+        "Amir": {
+          "deaths": 26,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 204,
+          "flagCaptures": 3,
+          "flagReturns": 12,
+          "flagSteals": 8,
+          "name": "Amir",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 20,
+            "HEGRENADE": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 30,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 102,
+          "flagCaptures": 2,
+          "flagReturns": 14,
+          "flagSteals": 8,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 21
+          }
+        },
+        "TAl": {
+          "deaths": 28,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 80,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 9,
+          "name": "TAl",
+          "weapons": {
+            "M4": 23,
+            "UMP45": 2
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "PanzerjagerTiger",
+        "2": "Amir",
+        "3": "MAMBA",
+        "4": "**KILAKA**",
+        "5": "Kobi"
+      }
+    },
+    "11_mykonos_a17": {
+      "gameId": "11_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:10 ",
+      "gameTotalDeaths": 236,
+      "gameTotalScore": 1007,
+      "gameLength": "12:56",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 29,
+          "kills": 25,
+          "gamesPlayed": 1,
+          "score": 145,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "Bar",
+          "weapons": {
+            "M4": 24
+          }
+        },
+        "MAMBA": {
+          "deaths": 40,
+          "kills": 30,
+          "gamesPlayed": 1,
+          "score": 93,
+          "flagCaptures": 1,
+          "flagReturns": 6,
+          "flagSteals": 7,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 29
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 24,
+          "kills": 40,
+          "gamesPlayed": 1,
+          "score": 180,
+          "flagCaptures": 4,
+          "flagReturns": 9,
+          "flagSteals": 10,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 32,
+            "GLOCK": 4
+          }
+        },
+        "benD": {
+          "deaths": 22,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 180,
+          "flagCaptures": 4,
+          "flagReturns": 9,
+          "flagSteals": 5,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 2,
+            "M4": 31
+          }
+        },
+        "Kobi": {
+          "deaths": 28,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 157,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 5,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 30,
+            "HEGRENADE": 2
+          }
+        },
+        "Amir": {
+          "deaths": 29,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 68,
+          "flagCaptures": 0,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "Amir",
+          "weapons": {
+            "M4": 15
+          }
+        },
+        "TAl": {
+          "deaths": 36,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 91,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "TAl",
+          "weapons": {
+            "M4": 25,
+            "UMP45": 2
+          }
+        },
+        "Ed": {
+          "deaths": 28,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 93,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 3,
+          "name": "Ed",
+          "weapons": {
+            "M4": 29
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "MAMBA",
+        "1": "Bar",
+        "2": "Ed",
+        "3": "TAl",
+        "4": "Kobi",
+        "5": "benD",
+        "6": "Amir",
+        "7": "**KILAKA**"
+      }
+    },
+    "12_kingdom": {
+      "gameId": "12_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:0  blue:1 ",
+      "gameTotalDeaths": 125,
+      "gameTotalScore": 215,
+      "gameLength": "12:28",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 17,
+          "kills": 6,
+          "gamesPlayed": 1,
+          "score": 24,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 6
+          }
+        },
+        "MAMBA": {
+          "deaths": 21,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 18,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 11
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 14,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 28,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 15,
+            "GLOCK": 1
+          }
+        },
+        "benD": {
+          "deaths": 9,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 48,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "benD",
+          "weapons": {
+            "M4": 26
+          }
+        },
+        "Kobi": {
+          "deaths": 16,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 35,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "Kobi",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 20
+          }
+        },
+        "Amir": {
+          "deaths": 16,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 17,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Amir",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "TAl": {
+          "deaths": 18,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 20,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "TAl",
+          "weapons": {
+            "M4": 13
+          }
+        },
+        "Ed": {
+          "deaths": 14,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 25,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 15
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "Bar",
+        "2": "Ed",
+        "3": "TAl",
+        "4": "Kobi",
+        "5": "benD",
+        "6": "Amir",
+        "7": "MAMBA"
+      }
+    },
+    "27_kingdom": {
+      "gameId": "27_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:2  blue:5 ",
+      "gameTotalDeaths": 105,
+      "gameTotalScore": 404,
+      "gameLength": "16:03",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 23,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 83,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 5,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 13
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 18,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 2,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 20
+          }
+        },
+        "Kobi": {
+          "deaths": 11,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 38,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 13
+          }
+        },
+        "Amir": {
+          "deaths": 21,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 46,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "Amir",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 13,
+            "BENELLI": 2
+          }
+        },
+        "TAl": {
+          "deaths": 19,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 94,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "TAl",
+          "weapons": {
+            "M4": 17,
+            "UMP45": 3
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 13,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 86,
+          "flagCaptures": 3,
+          "flagReturns": 4,
+          "flagSteals": 6,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 14
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "PanzerjagerTiger",
+        "2": "Amir",
+        "3": "MAMBA",
+        "4": "**KILAKA**",
+        "5": "Kobi"
+      }
+    },
+    "14_riyadh": {
+      "gameId": "14_riyadh",
+      "mapName": "riyadh",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:3  blue:1 ",
+      "gameTotalDeaths": 119,
+      "gameTotalScore": 335,
+      "gameLength": "12:27",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 24,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 30,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "MAMBA": {
+          "deaths": 4,
+          "kills": 7,
+          "gamesPlayed": 1,
+          "score": 37,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "MAMBA",
+          "weapons": {
+            "PSG1": 7
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 12,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 54,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 6,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 14
+          }
+        },
+        "benD": {
+          "deaths": 21,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 61,
+          "flagCaptures": 0,
+          "flagReturns": 5,
+          "flagSteals": 2,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 25,
+            "HEGRENADE": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 25,
+          "kills": 10,
+          "gamesPlayed": 1,
+          "score": 27,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 3,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 10
+          }
+        },
+        "TAl": {
+          "deaths": 17,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 69,
+          "flagCaptures": 2,
+          "flagReturns": 2,
+          "flagSteals": 5,
+          "name": "TAl",
+          "weapons": {
+            "M4": 26,
+            "UMP45": 1
+          }
+        },
+        "Ed": {
+          "deaths": 16,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "Ed",
+          "weapons": {
+            "M4": 18
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "Bar",
+        "2": "Ed",
+        "3": "TAl",
+        "4": "Kobi",
+        "5": "benD",
+        "7": "MAMBA"
+      }
+    },
+    "10_abbey": {
+      "gameId": "10_abbey",
+      "mapName": "abbey",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:3  blue:6 ",
+      "gameTotalDeaths": 244,
+      "gameTotalScore": 828,
+      "gameLength": "12:28",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 31,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 90,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 24,
+            "MP5K": 2
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 18,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 65,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 18
+          }
+        },
+        "Max": {
+          "deaths": 17,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 84,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Max",
+          "weapons": {
+            "MAC11": 12
+          }
+        },
+        "oded": {
+          "deaths": 32,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 55,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 6,
+          "name": "oded",
+          "weapons": {
+            "AK103": 21
+          }
+        },
+        "benD": {
+          "deaths": 18,
+          "kills": 37,
+          "gamesPlayed": 1,
+          "score": 149,
+          "flagCaptures": 4,
+          "flagReturns": 9,
+          "flagSteals": 7,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 35
+          }
+        },
+        "Kobi": {
+          "deaths": 39,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 54,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 19
+          }
+        },
+        "yourself": {
+          "deaths": 30,
+          "kills": 30,
+          "gamesPlayed": 1,
+          "score": 65,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 1,
+          "name": "yourself",
+          "weapons": {
+            "G36": 30
+          }
+        },
+        "TAl": {
+          "deaths": 22,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 110,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "TAl",
+          "weapons": {
+            "M4": 4,
+            "HEGRENADE": 3,
+            "UMP45": 23
+          }
+        },
+        "DudiDu": {
+          "deaths": 19,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 52,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 1,
+          "name": "DudiDu",
+          "weapons": {
+            "M4": 15,
+            "MP5K": 1
+          }
+        },
+        "Ed": {
+          "deaths": 18,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 104,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 27
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "yourself",
+        "2": "Kobi",
+        "3": "TAl",
+        "4": "DudiDu",
+        "5": "oded",
+        "6": "Ed",
+        "7": "benD",
+        "8": "MAMBA",
+        "9": "Max",
+        "10": "Max"
+      }
+    },
+    "SUMMARY": {
+      "gameId": "SUMMARY",
+      "mapName": "SUMMARY",
+      "gameType": "SUMMARY",
+      "gameResult": "Round 1:  ",
+      "gameTotalDeaths": 5664,
+      "gameTotalScore": 19197,
+      "gameLength": "0",
+      "gameEndReason": "-",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 785,
+          "kills": 735,
+          "gamesPlayed": 32,
+          "score": 2583,
+          "flagCaptures": 32,
+          "flagReturns": 149,
+          "flagSteals": 147,
+          "name": "MAMBA",
+          "weapons": {}
+        },
+        "**KILAKA**": {
+          "deaths": 650,
+          "kills": 875,
+          "gamesPlayed": 30,
+          "score": 3015,
+          "flagCaptures": 52,
+          "flagReturns": 144,
+          "flagSteals": 206,
+          "name": "**KILAKA**",
+          "weapons": {}
+        },
+        "Max": {
+          "deaths": 47,
+          "kills": 32,
+          "gamesPlayed": 3,
+          "score": 144,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Max",
+          "weapons": {}
+        },
+        "oded": {
+          "deaths": 72,
+          "kills": 52,
+          "gamesPlayed": 3,
+          "score": 130,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 8,
+          "name": "oded",
+          "weapons": {}
+        },
+        "Kobi": {
+          "deaths": 559,
+          "kills": 456,
+          "gamesPlayed": 23,
+          "score": 1821,
+          "flagCaptures": 35,
+          "flagReturns": 71,
+          "flagSteals": 140,
+          "name": "Kobi",
+          "weapons": {}
+        },
+        "Rachel": {
+          "deaths": 2,
+          "kills": 2,
+          "gamesPlayed": 2,
+          "score": 4,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "Rachel",
+          "weapons": {}
+        },
+        "Amir": {
+          "deaths": 267,
+          "kills": 232,
+          "gamesPlayed": 13,
+          "score": 743,
+          "flagCaptures": 6,
+          "flagReturns": 45,
+          "flagSteals": 25,
+          "name": "Amir",
+          "weapons": {}
+        },
+        "godfather": {
+          "deaths": 212,
+          "kills": 190,
+          "gamesPlayed": 12,
+          "score": 672,
+          "flagCaptures": 9,
+          "flagReturns": 35,
+          "flagSteals": 36,
+          "name": "godfather",
+          "weapons": {}
+        },
+        "PanzerjagerTiger": {
+          "deaths": 530,
+          "kills": 514,
+          "gamesPlayed": 25,
+          "score": 2070,
+          "flagCaptures": 29,
+          "flagReturns": 101,
+          "flagSteals": 121,
+          "name": "PanzerjagerTiger",
+          "weapons": {}
+        },
+        "DudiDu": {
+          "deaths": 64,
+          "kills": 58,
+          "gamesPlayed": 4,
+          "score": 206,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 4,
+          "name": "DudiDu",
+          "weapons": {}
+        },
+        "D.O.D": {
+          "deaths": 56,
+          "kills": 18,
+          "gamesPlayed": 3,
+          "score": 66,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "D.O.D",
+          "weapons": {}
+        },
+        "Bar": {
+          "deaths": 285,
+          "kills": 167,
+          "gamesPlayed": 13,
+          "score": 675,
+          "flagCaptures": 2,
+          "flagReturns": 37,
+          "flagSteals": 18,
+          "name": "Bar",
+          "weapons": {}
+        },
+        "King": {
+          "deaths": 129,
+          "kills": 20,
+          "gamesPlayed": 6,
+          "score": 248,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 8,
+          "name": "King",
+          "weapons": {}
+        },
+        "KING": {
+          "deaths": 6,
+          "kills": 0,
+          "gamesPlayed": 3,
+          "score": 10,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "KING",
+          "weapons": {}
+        },
+        "benD": {
+          "deaths": 456,
+          "kills": 845,
+          "gamesPlayed": 25,
+          "score": 2531,
+          "flagCaptures": 50,
+          "flagReturns": 143,
+          "flagSteals": 121,
+          "name": "benD",
+          "weapons": {}
+        },
+        "settler": {
+          "deaths": 29,
+          "kills": 18,
+          "gamesPlayed": 3,
+          "score": 61,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 0,
+          "name": "settler",
+          "weapons": {}
+        },
+        "yourself": {
+          "deaths": 247,
+          "kills": 201,
+          "gamesPlayed": 10,
+          "score": 625,
+          "flagCaptures": 6,
+          "flagReturns": 23,
+          "flagSteals": 33,
+          "name": "yourself",
+          "weapons": {}
+        },
+        "Dvir": {
+          "deaths": 24,
+          "kills": 14,
+          "gamesPlayed": 3,
+          "score": 101,
+          "flagCaptures": 2,
+          "flagReturns": 6,
+          "flagSteals": 4,
+          "name": "Dvir",
+          "weapons": {}
+        },
+        "TAl": {
+          "deaths": 675,
+          "kills": 709,
+          "gamesPlayed": 27,
+          "score": 2443,
+          "flagCaptures": 29,
+          "flagReturns": 82,
+          "flagSteals": 121,
+          "name": "TAl",
+          "weapons": {}
+        },
+        "Ed": {
+          "deaths": 431,
+          "kills": 426,
+          "gamesPlayed": 19,
+          "score": 1209,
+          "flagCaptures": 17,
+          "flagReturns": 54,
+          "flagSteals": 80,
+          "name": "Ed",
+          "weapons": {}
+        }
+      },
+      "playersRegister": {}
+    },
+    "18_algiers": {
+      "gameId": "18_algiers",
+      "mapName": "algiers",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:10  blue:6 ",
+      "gameTotalDeaths": 145,
+      "gameTotalScore": 780,
+      "gameLength": "15:33",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 26,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 171,
+          "flagCaptures": 6,
+          "flagReturns": 11,
+          "flagSteals": 16,
+          "name": "MAMBA",
+          "weapons": {
+            "KNIFE": 1,
+            "M4": 23
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 35,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 146,
+          "flagCaptures": 2,
+          "flagReturns": 9,
+          "flagSteals": 8,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 16,
+            "HEGRENADE": 2,
+            "NEGEV": 14
+          }
+        },
+        "benD": {
+          "deaths": 29,
+          "kills": 46,
+          "gamesPlayed": 1,
+          "score": 182,
+          "flagCaptures": 4,
+          "flagReturns": 12,
+          "flagSteals": 10,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 2,
+            "LR300": 44
+          }
+        },
+        "TAl": {
+          "deaths": 31,
+          "kills": 25,
+          "gamesPlayed": 1,
+          "score": 140,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 7,
+          "name": "TAl",
+          "weapons": {
+            "M4": 24,
+            "UMP45": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 24,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 141,
+          "flagCaptures": 3,
+          "flagReturns": 6,
+          "flagSteals": 8,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 13
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "PanzerjagerTiger",
+        "1": "MAMBA",
+        "2": "**KILAKA**",
+        "4": "Kobi",
+        "5": "TAl",
+        "7": "benD"
+      }
+    },
+    "3_riyadh": {
+      "gameId": "3_riyadh",
+      "mapName": "riyadh",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:1  blue:0 ",
+      "gameTotalDeaths": 224,
+      "gameTotalScore": 336,
+      "gameLength": "15:39",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 27,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 30,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "MAMBA",
+          "weapons": {
+            "KNIFE": 1,
+            "BERETTA": 2,
+            "M4": 19
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 22,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 21,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 9,
+            "LR300": 8,
+            "GLOCK": 1
+          }
+        },
+        "benD": {
+          "deaths": 18,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 60,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 33
+          }
+        },
+        "Kobi": {
+          "deaths": 22,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 15,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 10,
+            "UMP45": 2
+          }
+        },
+        "yourself": {
+          "deaths": 23,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 31,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 21
+          }
+        },
+        "Amir": {
+          "deaths": 16,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 29,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "Amir",
+          "weapons": {
+            "LR300": 14
+          }
+        },
+        "godfather": {
+          "deaths": 13,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 34,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 21,
+            "HEGRENADE": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 22,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 23,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 17
+          }
+        },
+        "TAl": {
+          "deaths": 23,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 47,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 2,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 32,
+            "UMP45": 1
+          }
+        },
+        "D.O.D": {
+          "deaths": 20,
+          "kills": 5,
+          "gamesPlayed": 1,
+          "score": 19,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "D.O.D",
+          "weapons": {
+            "AK103": 5
+          }
+        },
+        "Ed": {
+          "deaths": 18,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 27,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 15
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "MAMBA",
+        "2": "Amir",
+        "3": "PanzerjagerTiger",
+        "4": "**KILAKA**",
+        "5": "godfather",
+        "6": "yourself",
+        "7": "D.O.D",
+        "8": "Ed",
+        "9": "Kobi",
+        "10": "benD"
+      }
+    },
+    "1_sanc": {
+      "gameId": "1_sanc",
+      "mapName": "sanc",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:1  blue:2 ",
+      "gameTotalDeaths": 203,
+      "gameTotalScore": 390,
+      "gameLength": "17:34",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 16,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 30,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "MAMBA": {
+          "deaths": 29,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 29,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 3,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 17
+          }
+        },
+        "KING": {
+          "deaths": 0,
+          "kills": 0,
+          "gamesPlayed": 1,
+          "score": 0,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "KING",
+          "weapons": {}
+        },
+        "KING_10": {
+          "deaths": 17,
+          "kills": 6,
+          "gamesPlayed": 1,
+          "score": 17,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "KING_10",
+          "weapons": {
+            "UMP45": 6
+          }
+        },
+        "benD": {
+          "deaths": 21,
+          "kills": 43,
+          "gamesPlayed": 1,
+          "score": 64,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "benD",
+          "weapons": {
+            "M4": 38,
+            "HEGRENADE": 2
+          }
+        },
+        "settler": {
+          "deaths": 15,
+          "kills": 9,
+          "gamesPlayed": 1,
+          "score": 19,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "settler",
+          "weapons": {
+            "AK103": 9
+          }
+        },
+        "DOD": {
+          "deaths": 17,
+          "kills": 2,
+          "gamesPlayed": 1,
+          "score": 12,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "DOD",
+          "weapons": {
+            "AK103": 2
+          }
+        },
+        "Amir": {
+          "deaths": 19,
+          "kills": 11,
+          "gamesPlayed": 1,
+          "score": 25,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "Amir",
+          "weapons": {
+            "M4": 9,
+            "HEGRENADE": 1
+          }
+        },
+        "godfather": {
+          "deaths": 17,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 40,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 3,
+            "M4": 10
+          }
+        },
+        "Tal": {
+          "deaths": 15,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 63,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 0,
+          "name": "Tal",
+          "weapons": {
+            "BERETTA": 2,
+            "LR300": 24,
+            "HEGRENADE": 1,
+            "MP5K": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 17,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 41,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 3,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 29,
+            "HEGRENADE": 1
+          }
+        },
+        "Ed": {
+          "deaths": 20,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 50,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 28
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "Tal",
+        "1": "PanzerjagerTiger",
+        "2": "benD",
+        "3": "Bar",
+        "4": "KING",
+        "5": "Amir",
+        "6": "godfather",
+        "7": "Ed",
+        "8": "MAMBA",
+        "9": "settler",
+        "10": "KING",
+        "11": "DOD"
+      }
+    },
+    "8_algiers": {
+      "gameId": "8_algiers",
+      "mapName": "algiers",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:6  blue:3 ",
+      "gameTotalDeaths": 214,
+      "gameTotalScore": 864,
+      "gameLength": "13:19",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 32,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 72,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 18,
+            "UMP45": 1
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 22,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 117,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 24,
+            "GLOCK": 1
+          }
+        },
+        "Ed_4": {
+          "deaths": 24,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 69,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "Ed_4",
+          "weapons": {
+            "M4": 20
+          }
+        },
+        "benD": {
+          "deaths": 14,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 88,
+          "flagCaptures": 1,
+          "flagReturns": 6,
+          "flagSteals": 2,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 22,
+            "HEGRENADE": 2
+          }
+        },
+        "Ed_8": {
+          "deaths": 14,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 44,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "Ed_8",
+          "weapons": {
+            "G36": 7
+          }
+        },
+        "Kobi": {
+          "deaths": 7,
+          "kills": 10,
+          "gamesPlayed": 1,
+          "score": 63,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 9
+          }
+        },
+        "Amir": {
+          "deaths": 22,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 94,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Amir",
+          "weapons": {
+            "M4": 21
+          }
+        },
+        "yourself": {
+          "deaths": 20,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 87,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 3,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 15
+          }
+        },
+        "TAl": {
+          "deaths": 26,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 69,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 6,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 4,
+            "UMP45": 17
+          }
+        },
+        "DudiDu": {
+          "deaths": 17,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 85,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "DudiDu",
+          "weapons": {
+            "G36": 11,
+            "MP5K": 2
+          }
+        },
+        "Ed": {
+          "deaths": 16,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 76,
+          "flagCaptures": 2,
+          "flagReturns": 5,
+          "flagSteals": 10,
+          "name": "Ed",
+          "weapons": {
+            "HEGRENADE": 4,
+            "AK103": 9
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "Amir",
+        "2": "yourself",
+        "3": "DudiDu",
+        "4": "Ed",
+        "5": "benD",
+        "6": "TAl",
+        "7": "Ed",
+        "8": "Ed",
+        "9": "MAMBA",
+        "10": "Kobi"
+      }
+    },
+    "15_kingdom": {
+      "gameId": "15_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:2  blue:3 ",
+      "gameTotalDeaths": 131,
+      "gameTotalScore": 350,
+      "gameLength": "16:44",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 19,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 44,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 19,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 50,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 22
+          }
+        },
+        "benD": {
+          "deaths": 12,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 67,
+          "flagCaptures": 2,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 1,
+            "LR300": 26,
+            "HEGRENADE": 1,
+            "UMP45": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 17,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 41,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 13
+          }
+        },
+        "Rachel": {
+          "deaths": 2,
+          "kills": 2,
+          "gamesPlayed": 1,
+          "score": 0,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "Rachel",
+          "weapons": {
+            "M4": 1,
+            "HEGRENADE": 1
+          }
+        },
+        "godfather": {
+          "deaths": 24,
+          "kills": 6,
+          "gamesPlayed": 1,
+          "score": 37,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 5,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 3
+          }
+        },
+        "TAl": {
+          "deaths": 21,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 71,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "TAl",
+          "weapons": {
+            "M4": 22
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 17,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 40,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 1,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 14
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "godfather",
+        "1": "TAl",
+        "2": "MAMBA",
+        "3": "PanzerjagerTiger",
+        "4": "Kobi",
+        "5": "Rachel",
+        "6": "benD",
+        "7": "**KILAKA**"
+      }
+    },
+    "28_dressingroom": {
+      "gameId": "28_dressingroom",
+      "mapName": "dressingroom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:3  blue:1 ",
+      "gameTotalDeaths": 213,
+      "gameTotalScore": 471,
+      "gameLength": "15:39",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 38,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 8,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 32
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 28,
+          "kills": 46,
+          "gamesPlayed": 1,
+          "score": 96,
+          "flagCaptures": 0,
+          "flagReturns": 5,
+          "flagSteals": 8,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 35
+          }
+        },
+        "Kobi": {
+          "deaths": 33,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 94,
+          "flagCaptures": 2,
+          "flagReturns": 7,
+          "flagSteals": 6,
+          "name": "Kobi",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 28,
+            "UMP45": 1
+          }
+        },
+        "Amir": {
+          "deaths": 34,
+          "kills": 37,
+          "gamesPlayed": 1,
+          "score": 89,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "Amir",
+          "weapons": {
+            "M4": 35,
+            "HEGRENADE": 2
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 39,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 67,
+          "flagCaptures": 0,
+          "flagReturns": 5,
+          "flagSteals": 6,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 25
+          }
+        },
+        "TAl": {
+          "deaths": 41,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 68,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 4,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 26,
+            "UMP45": 4
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "PanzerjagerTiger",
+        "2": "Amir",
+        "3": "MAMBA",
+        "4": "**KILAKA**",
+        "5": "Kobi"
+      }
+    },
+    "25_dressingroom": {
+      "gameId": "25_dressingroom",
+      "mapName": "dressingroom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:2  blue:3 ",
+      "gameTotalDeaths": 130,
+      "gameTotalScore": 350,
+      "gameLength": "15:40",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 32,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 82,
+          "flagCaptures": 2,
+          "flagReturns": 8,
+          "flagSteals": 6,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 25
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 27,
+          "kills": 41,
+          "gamesPlayed": 1,
+          "score": 109,
+          "flagCaptures": 2,
+          "flagReturns": 8,
+          "flagSteals": 10,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 41
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 31,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 83,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 8,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 3,
+            "M4": 26
+          }
+        },
+        "Ed": {
+          "deaths": 40,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 76,
+          "flagCaptures": 0,
+          "flagReturns": 7,
+          "flagSteals": 3,
+          "name": "Ed",
+          "weapons": {
+            "M4": 30
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "MAMBA",
+        "1": "PanzerjagerTiger",
+        "2": "Ed",
+        "3": "**KILAKA**"
+      }
+    },
+    "7_kingdom": {
+      "gameId": "7_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:0 ",
+      "gameTotalDeaths": 123,
+      "gameTotalScore": 346,
+      "gameLength": "15:41",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 16,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 14,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 8
+          }
+        },
+        "MAMBA": {
+          "deaths": 4,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 73,
+          "flagCaptures": 0,
+          "flagReturns": 6,
+          "flagSteals": 0,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 14,
+            "SPAS": 2
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 11,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 73,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 7,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 16
+          }
+        },
+        "benD": {
+          "deaths": 7,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 14,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "benD",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "yourself": {
+          "deaths": 23,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 10,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 8
+          }
+        },
+        "godfather": {
+          "deaths": 11,
+          "kills": 11,
+          "gamesPlayed": 1,
+          "score": 17,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 0,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 10
+          }
+        },
+        "TAl": {
+          "deaths": 22,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 63,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "TAl",
+          "weapons": {
+            "M4": 2,
+            "HEGRENADE": 1,
+            "UMP45": 12
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 9,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 64,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 15
+          }
+        },
+        "Ed": {
+          "deaths": 20,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 18,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 3,
+          "name": "Ed",
+          "weapons": {
+            "M4": 18
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "PanzerjagerTiger",
+        "1": "**KILAKA**",
+        "2": "MAMBA",
+        "3": "Bar",
+        "4": "Ed",
+        "5": "godfather",
+        "6": "TAl",
+        "7": "yourself",
+        "8": "benD"
+      }
+    },
+    "20_riyadh": {
+      "gameId": "20_riyadh",
+      "mapName": "riyadh",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:2  blue:1 ",
+      "gameTotalDeaths": 135,
+      "gameTotalScore": 300,
+      "gameLength": "15:39",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 13,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 53,
+          "flagCaptures": 0,
+          "flagReturns": 8,
+          "flagSteals": 0,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 20
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 20,
+          "kills": 33,
+          "gamesPlayed": 1,
+          "score": 75,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 30
+          }
+        },
+        "King": {
+          "deaths": 26,
+          "kills": 2,
+          "gamesPlayed": 1,
+          "score": 12,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "King",
+          "weapons": {
+            "M4": 2
+          }
+        },
+        "benD": {
+          "deaths": 20,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 35,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 3,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 2,
+            "LR300": 22
+          }
+        },
+        "Kobi": {
+          "deaths": 22,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 35,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 6,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 14,
+            "UMP45": 1
+          }
+        },
+        "TAl": {
+          "deaths": 24,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "TAl",
+          "weapons": {
+            "M4": 23
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 10,
+          "kills": 9,
+          "gamesPlayed": 1,
+          "score": 33,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 9
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "Kobi",
+        "1": "benD",
+        "2": "PanzerjagerTiger",
+        "3": "TAl",
+        "4": "MAMBA",
+        "5": "**KILAKA**",
+        "6": "King"
+      }
+    },
+    "21_kingdom": {
+      "gameId": "21_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:1  blue:2 ",
+      "gameTotalDeaths": 163,
+      "gameTotalScore": 409,
+      "gameLength": "15:48",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 24,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 54,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Bar",
+          "weapons": {
+            "M4": 15
+          }
+        },
+        "MAMBA": {
+          "deaths": 23,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 71,
+          "flagCaptures": 1,
+          "flagReturns": 7,
+          "flagSteals": 2,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 17,
+            "HEGRENADE": 1
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 20,
+          "kills": 30,
+          "gamesPlayed": 1,
+          "score": 42,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 7,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 28
+          }
+        },
+        "King": {
+          "deaths": 21,
+          "kills": 4,
+          "gamesPlayed": 1,
+          "score": 14,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "King",
+          "weapons": {
+            "M4": 4
+          }
+        },
+        "benD": {
+          "deaths": 18,
+          "kills": 33,
+          "gamesPlayed": 1,
+          "score": 59,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 4,
+          "name": "benD",
+          "weapons": {
+            "LR300": 33
+          }
+        },
+        "Kobi": {
+          "deaths": 21,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 27,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 7,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 15
+          }
+        },
+        "TAl": {
+          "deaths": 18,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 86,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 3,
+          "name": "TAl",
+          "weapons": {
+            "M4": 23,
+            "UMP45": 2
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 18,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 56,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 2,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 15,
+            "GLOCK": 2
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "MAMBA",
+        "2": "TAl",
+        "3": "PanzerjagerTiger",
+        "4": "benD",
+        "5": "King",
+        "6": "Bar",
+        "7": "Kobi"
+      }
+    },
+    "2_kingdom": {
+      "gameId": "2_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:3 ",
+      "gameTotalDeaths": 319,
+      "gameTotalScore": 718,
+      "gameLength": "25:20",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 32,
+          "kills": 36,
+          "gamesPlayed": 1,
+          "score": 74,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 4,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 32
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 31,
+          "kills": 30,
+          "gamesPlayed": 1,
+          "score": 65,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "**KILAKA**",
+          "weapons": {
+            "LR300": 26,
+            "BENELLI": 1,
+            "AK103": 1,
+            "GLOCK": 1
+          }
+        },
+        "benD": {
+          "deaths": 20,
+          "kills": 36,
+          "gamesPlayed": 1,
+          "score": 82,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "benD",
+          "weapons": {
+            "M4": 33,
+            "HEGRENADE": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 23,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 70,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 19
+          }
+        },
+        "Amir": {
+          "deaths": 30,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 54,
+          "flagCaptures": 0,
+          "flagReturns": 7,
+          "flagSteals": 1,
+          "name": "Amir",
+          "weapons": {
+            "LR300": 21,
+            "BENELLI": 1
+          }
+        },
+        "yourself": {
+          "deaths": 29,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 56,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "yourself",
+          "weapons": {
+            "HEGRENADE": 1,
+            "AK103": 23
+          }
+        },
+        "godfather": {
+          "deaths": 18,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 60,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 0,
+          "name": "godfather",
+          "weapons": {
+            "M4": 26
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 31,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 77,
+          "flagCaptures": 2,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 2,
+            "P90": 2,
+            "M4": 28
+          }
+        },
+        "TAl": {
+          "deaths": 37,
+          "kills": 43,
+          "gamesPlayed": 1,
+          "score": 75,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 36,
+            "UMP45": 4
+          }
+        },
+        "D.O.D": {
+          "deaths": 36,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 42,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "D.O.D",
+          "weapons": {
+            "KNIFE": 1,
+            "AK103": 12
+          }
+        },
+        "Ed": {
+          "deaths": 32,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 63,
+          "flagCaptures": 3,
+          "flagReturns": 4,
+          "flagSteals": 7,
+          "name": "Ed",
+          "weapons": {
+            "M4": 27
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "MAMBA",
+        "2": "Amir",
+        "3": "PanzerjagerTiger",
+        "4": "**KILAKA**",
+        "5": "godfather",
+        "6": "yourself",
+        "7": "D.O.D",
+        "8": "Ed",
+        "9": "Kobi",
+        "10": "benD"
+      }
+    },
+    "13_riyadh": {
+      "gameId": "13_riyadh",
+      "mapName": "riyadh",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:1  blue:3 ",
+      "gameTotalDeaths": 122,
+      "gameTotalScore": 315,
+      "gameLength": "12:27",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 13,
+          "kills": 4,
+          "gamesPlayed": 1,
+          "score": 36,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 4
+          }
+        },
+        "MAMBA": {
+          "deaths": 8,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 24,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 4,
+            "SR8": 3,
+            "HEGRENADE": 1
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 18,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 52,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 18
+          }
+        },
+        "benD": {
+          "deaths": 16,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 84,
+          "flagCaptures": 2,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 2,
+            "M4": 29
+          }
+        },
+        "Kobi": {
+          "deaths": 16,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 53,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "Amir": {
+          "deaths": 9,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 0,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "Amir",
+          "weapons": {
+            "M4": 8
+          }
+        },
+        "TAl": {
+          "deaths": 22,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 35,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 3,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 14,
+            "HEGRENADE": 1,
+            "UMP45": 1
+          }
+        },
+        "Ed": {
+          "deaths": 20,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 31,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 16
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "Bar",
+        "2": "Ed",
+        "3": "TAl",
+        "4": "Kobi",
+        "5": "benD",
+        "6": "Amir",
+        "7": "MAMBA"
+      }
+    },
+    "16_algiers": {
+      "gameId": "16_algiers",
+      "mapName": "algiers",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:12  blue:5 ",
+      "gameTotalDeaths": 200,
+      "gameTotalScore": 1130,
+      "gameLength": "15:44",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 37,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 168,
+          "flagCaptures": 0,
+          "flagReturns": 6,
+          "flagSteals": 4,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 29
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 28,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 130,
+          "flagCaptures": 3,
+          "flagReturns": 5,
+          "flagSteals": 9,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 28,
+            "NEGEV": 3,
+            "GLOCK": 1
+          }
+        },
+        "benD": {
+          "deaths": 26,
+          "kills": 42,
+          "gamesPlayed": 1,
+          "score": 126,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 6,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 2,
+            "LR300": 38,
+            "HEGRENADE": 1,
+            "UMP45": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 34,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 178,
+          "flagCaptures": 5,
+          "flagReturns": 7,
+          "flagSteals": 12,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 19
+          }
+        },
+        "Dvir": {
+          "deaths": 14,
+          "kills": 3,
+          "gamesPlayed": 1,
+          "score": 79,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 3,
+          "name": "Dvir",
+          "weapons": {
+            "AK103": 3
+          }
+        },
+        "godfather": {
+          "deaths": 18,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 164,
+          "flagCaptures": 3,
+          "flagReturns": 7,
+          "flagSteals": 4,
+          "name": "godfather",
+          "weapons": {
+            "M4": 15
+          }
+        },
+        "TAl": {
+          "deaths": 28,
+          "kills": 42,
+          "gamesPlayed": 1,
+          "score": 130,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 6,
+          "name": "TAl",
+          "weapons": {
+            "M4": 36,
+            "UMP45": 6
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 15,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 155,
+          "flagCaptures": 3,
+          "flagReturns": 4,
+          "flagSteals": 4,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 3,
+            "M4": 10
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "godfather",
+        "1": "MAMBA",
+        "2": "TAl",
+        "3": "benD",
+        "4": "Kobi",
+        "5": "PanzerjagerTiger",
+        "6": "Dvir",
+        "7": "**KILAKA**"
+      }
+    },
+    "4_abbey": {
+      "gameId": "4_abbey",
+      "mapName": "abbey",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:3  blue:8 ",
+      "gameTotalDeaths": 242,
+      "gameTotalScore": 925,
+      "gameLength": "15:39",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 25,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 133,
+          "flagCaptures": 3,
+          "flagReturns": 5,
+          "flagSteals": 5,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 24
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 25,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 118,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 20,
+            "GLOCK": 2
+          }
+        },
+        "benD": {
+          "deaths": 30,
+          "kills": 50,
+          "gamesPlayed": 1,
+          "score": 98,
+          "flagCaptures": 1,
+          "flagReturns": 7,
+          "flagSteals": 6,
+          "name": "benD",
+          "weapons": {
+            "M4": 48
+          }
+        },
+        "Kobi": {
+          "deaths": 23,
+          "kills": 15,
+          "gamesPlayed": 1,
+          "score": 116,
+          "flagCaptures": 3,
+          "flagReturns": 6,
+          "flagSteals": 11,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 14
+          }
+        },
+        "yourself": {
+          "deaths": 34,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 58,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 6,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 19
+          }
+        },
+        "godfather": {
+          "deaths": 28,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 80,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 7,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 22
+          }
+        },
+        "TAl": {
+          "deaths": 29,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 141,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 4,
+          "name": "TAl",
+          "weapons": {
+            "M4": 33,
+            "UMP45": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 19,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 106,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 22
+          }
+        },
+        "Ed": {
+          "deaths": 29,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 75,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "Ed",
+          "weapons": {
+            "M4": 26
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "MAMBA",
+        "3": "PanzerjagerTiger",
+        "4": "**KILAKA**",
+        "5": "godfather",
+        "6": "yourself",
+        "7": "D.O.D",
+        "8": "Ed",
+        "9": "Kobi",
+        "10": "benD"
+      }
+    },
+    "30_mykonos_a17": {
+      "gameId": "30_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:20 ",
+      "gameTotalDeaths": 134,
+      "gameTotalScore": 1120,
+      "gameLength": "15:25",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 24,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 330,
+          "flagCaptures": 9,
+          "flagReturns": 11,
+          "flagSteals": 14,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 21
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 30,
+          "kills": 42,
+          "gamesPlayed": 1,
+          "score": 80,
+          "flagCaptures": 1,
+          "flagReturns": 8,
+          "flagSteals": 13,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 38
+          }
+        },
+        "Kobi": {
+          "deaths": 39,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 80,
+          "flagCaptures": 3,
+          "flagReturns": 8,
+          "flagSteals": 11,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 23
+          }
+        },
+        "TAl": {
+          "deaths": 21,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 330,
+          "flagCaptures": 9,
+          "flagReturns": 14,
+          "flagSteals": 13,
+          "name": "TAl",
+          "weapons": {
+            "M4": 25,
+            "HEGRENADE": 2
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 20,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 300,
+          "flagCaptures": 3,
+          "flagReturns": 12,
+          "flagSteals": 9,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 18
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "TAl",
+        "1": "PanzerjagerTiger",
+        "3": "MAMBA",
+        "4": "**KILAKA**",
+        "5": "Kobi"
+      }
+    },
+    "22_riyadh": {
+      "gameId": "22_riyadh",
+      "mapName": "riyadh",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:0 ",
+      "gameTotalDeaths": 172,
+      "gameTotalScore": 420,
+      "gameLength": "15:38",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 24,
+          "kills": 11,
+          "gamesPlayed": 1,
+          "score": 17,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Bar",
+          "weapons": {
+            "M4": 11
+          }
+        },
+        "MAMBA": {
+          "deaths": 25,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 48,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 5,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 28
+          }
+        },
+        "King": {
+          "deaths": 24,
+          "kills": 5,
+          "gamesPlayed": 1,
+          "score": 45,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 2,
+          "name": "King",
+          "weapons": {
+            "M4": 5
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 18,
+          "kills": 32,
+          "gamesPlayed": 1,
+          "score": 87,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 32
+          }
+        },
+        "benD": {
+          "deaths": 11,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 100,
+          "flagCaptures": 2,
+          "flagReturns": 7,
+          "flagSteals": 2,
+          "name": "benD",
+          "weapons": {
+            "DEAGLE": 5,
+            "M4": 4,
+            "LR300": 26
+          }
+        },
+        "Kobi": {
+          "deaths": 24,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 71,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 9,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 18
+          }
+        },
+        "TAl": {
+          "deaths": 25,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 32,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 2,
+          "name": "TAl",
+          "weapons": {
+            "M4": 21,
+            "UMP45": 1
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 21,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 20,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 10
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "MAMBA",
+        "2": "TAl",
+        "3": "PanzerjagerTiger",
+        "4": "benD",
+        "5": "King",
+        "6": "Bar",
+        "7": "Kobi"
+      }
+    },
+    "19_kingdom": {
+      "gameId": "19_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:2  blue:1 ",
+      "gameTotalDeaths": 125,
+      "gameTotalScore": 282,
+      "gameLength": "16:07",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 15,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 24
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 17,
+          "kills": 29,
+          "gamesPlayed": 1,
+          "score": 65,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 29
+          }
+        },
+        "King": {
+          "deaths": 22,
+          "kills": 2,
+          "gamesPlayed": 1,
+          "score": 12,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "King",
+          "weapons": {
+            "M4": 1
+          }
+        },
+        "benD": {
+          "deaths": 16,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 41,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 3,
+          "name": "benD",
+          "weapons": {
+            "LR300": 17,
+            "HEGRENADE": 1
+          }
+        },
+        "Kobi": {
+          "deaths": 19,
+          "kills": 12,
+          "gamesPlayed": 1,
+          "score": 21,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 4,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 10
+          }
+        },
+        "TAl": {
+          "deaths": 17,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 56,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 4,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 18
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 19,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 30,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 3,
+            "M4": 12
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "Kobi",
+        "1": "benD",
+        "2": "PanzerjagerTiger",
+        "3": "TAl",
+        "4": "MAMBA",
+        "5": "**KILAKA**",
+        "6": "King"
+      }
+    },
+    "0_kingdom": {
+      "gameId": "0_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:1  blue:2 ",
+      "gameTotalDeaths": 232,
+      "gameTotalScore": 422,
+      "gameLength": "33:00",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 24,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 29,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 1,
+          "name": "Bar",
+          "weapons": {
+            "M4": 8,
+            "HEGRENADE": 1
+          }
+        },
+        "MAMBA": {
+          "deaths": 21,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 43,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 6,
+          "name": "MAMBA",
+          "weapons": {
+            "BERETTA": 1,
+            "M4": 21
+          }
+        },
+        "KING": {
+          "deaths": 6,
+          "kills": 0,
+          "gamesPlayed": 1,
+          "score": 10,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 2,
+          "name": "KING",
+          "weapons": {}
+        },
+        "KING_10": {
+          "deaths": 17,
+          "kills": 1,
+          "gamesPlayed": 1,
+          "score": 14,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "KING_10",
+          "weapons": {
+            "UMP45": 1
+          }
+        },
+        "benD": {
+          "deaths": 24,
+          "kills": 72,
+          "gamesPlayed": 1,
+          "score": 101,
+          "flagCaptures": 3,
+          "flagReturns": 12,
+          "flagSteals": 5,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 4,
+            "M4": 63,
+            "HEGRENADE": 1
+          }
+        },
+        "settler": {
+          "deaths": 14,
+          "kills": 9,
+          "gamesPlayed": 1,
+          "score": 33,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 0,
+          "name": "settler",
+          "weapons": {
+            "AK103": 8
+          }
+        },
+        "Amir": {
+          "deaths": 27,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 26,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 0,
+          "name": "Amir",
+          "weapons": {
+            "M4": 16
+          }
+        },
+        "godfather": {
+          "deaths": 20,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 42,
+          "flagCaptures": 1,
+          "flagReturns": 1,
+          "flagSteals": 7,
+          "name": "godfather",
+          "weapons": {
+            "M4": 18
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 22,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 34,
+          "flagCaptures": 0,
+          "flagReturns": 2,
+          "flagSteals": 4,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 23
+          }
+        },
+        "Tal": {
+          "deaths": 34,
+          "kills": 33,
+          "gamesPlayed": 1,
+          "score": 56,
+          "flagCaptures": 0,
+          "flagReturns": 7,
+          "flagSteals": 7,
+          "name": "Tal",
+          "weapons": {
+            "LR300": 30,
+            "MP5K": 1
+          }
+        },
+        "Ed": {
+          "deaths": 23,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 34,
+          "flagCaptures": 2,
+          "flagReturns": 2,
+          "flagSteals": 6,
+          "name": "Ed",
+          "weapons": {
+            "M4": 20
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "Tal",
+        "1": "PanzerjagerTiger",
+        "2": "benD",
+        "3": "Bar",
+        "4": "KING",
+        "5": "Amir",
+        "6": "godfather",
+        "7": "Ed",
+        "8": "MAMBA",
+        "9": "settler",
+        "10": "KING"
+      }
+    },
+    "9_kingdom": {
+      "gameId": "9_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:3  blue:2 ",
+      "gameTotalDeaths": 343,
+      "gameTotalScore": 727,
+      "gameLength": "23:27",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 27,
+          "kills": 27,
+          "gamesPlayed": 1,
+          "score": 79,
+          "flagCaptures": 0,
+          "flagReturns": 10,
+          "flagSteals": 2,
+          "name": "MAMBA",
+          "weapons": {
+            "KNIFE": 1,
+            "M4": 26
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 30,
+          "kills": 39,
+          "gamesPlayed": 1,
+          "score": 75,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 5,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 38
+          }
+        },
+        "Max": {
+          "deaths": 30,
+          "kills": 19,
+          "gamesPlayed": 1,
+          "score": 47,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 0,
+          "name": "Max",
+          "weapons": {
+            "G36": 19
+          }
+        },
+        "benD": {
+          "deaths": 33,
+          "kills": 55,
+          "gamesPlayed": 1,
+          "score": 94,
+          "flagCaptures": 2,
+          "flagReturns": 2,
+          "flagSteals": 7,
+          "name": "benD",
+          "weapons": {
+            "BERETTA": 3,
+            "M4": 49,
+            "HEGRENADE": 1
+          }
+        },
+        "oded": {
+          "deaths": 40,
+          "kills": 31,
+          "gamesPlayed": 1,
+          "score": 54,
+          "flagCaptures": 0,
+          "flagReturns": 3,
+          "flagSteals": 2,
+          "name": "oded",
+          "weapons": {
+            "HEGRENADE": 4,
+            "AK103": 25
+          }
+        },
+        "Kobi": {
+          "deaths": 33,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 47,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 5,
+          "name": "Kobi",
+          "weapons": {
+            "M4": 18
+          }
+        },
+        "yourself": {
+          "deaths": 28,
+          "kills": 25,
+          "gamesPlayed": 1,
+          "score": 63,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 4,
+          "name": "yourself",
+          "weapons": {
+            "HEGRENADE": 3,
+            "G36": 21
+          }
+        },
+        "Amir": {
+          "deaths": 18,
+          "kills": 25,
+          "gamesPlayed": 1,
+          "score": 61,
+          "flagCaptures": 2,
+          "flagReturns": 5,
+          "flagSteals": 3,
+          "name": "Amir",
+          "weapons": {
+            "M4": 23
+          }
+        },
+        "TAl": {
+          "deaths": 34,
+          "kills": 40,
+          "gamesPlayed": 1,
+          "score": 83,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "TAl",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 9,
+            "UMP45": 28
+          }
+        },
+        "DudiDu": {
+          "deaths": 28,
+          "kills": 24,
+          "gamesPlayed": 1,
+          "score": 51,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "DudiDu",
+          "weapons": {
+            "G36": 22,
+            "MP5K": 1
+          }
+        },
+        "Ed": {
+          "deaths": 42,
+          "kills": 35,
+          "gamesPlayed": 1,
+          "score": 73,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "Ed",
+          "weapons": {
+            "M4": 34
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "**KILAKA**",
+        "1": "yourself",
+        "2": "Kobi",
+        "3": "Amir",
+        "4": "DudiDu",
+        "5": "oded",
+        "6": "TAl",
+        "7": "benD",
+        "8": "MAMBA",
+        "9": "Ed",
+        "10": "Max"
+      }
+    },
+    "5_mykonos_a17": {
+      "gameId": "5_mykonos_a17",
+      "mapName": "mykonos_a17",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:7  blue:6 ",
+      "gameTotalDeaths": 286,
+      "gameTotalScore": 1112,
+      "gameLength": "16:12",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 35,
+          "kills": 23,
+          "gamesPlayed": 1,
+          "score": 111,
+          "flagCaptures": 0,
+          "flagReturns": 9,
+          "flagSteals": 2,
+          "name": "Bar",
+          "weapons": {
+            "P90": 2,
+            "M4": 20
+          }
+        },
+        "MAMBA": {
+          "deaths": 38,
+          "kills": 42,
+          "gamesPlayed": 1,
+          "score": 132,
+          "flagCaptures": 1,
+          "flagReturns": 10,
+          "flagSteals": 10,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 41
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 33,
+          "kills": 44,
+          "gamesPlayed": 1,
+          "score": 146,
+          "flagCaptures": 4,
+          "flagReturns": 7,
+          "flagSteals": 11,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 41,
+            "GLOCK": 3
+          }
+        },
+        "benD": {
+          "deaths": 9,
+          "kills": 11,
+          "gamesPlayed": 1,
+          "score": 97,
+          "flagCaptures": 3,
+          "flagReturns": 5,
+          "flagSteals": 7,
+          "name": "benD",
+          "weapons": {
+            "M4": 9,
+            "HEGRENADE": 1
+          }
+        },
+        "yourself": {
+          "deaths": 39,
+          "kills": 33,
+          "gamesPlayed": 1,
+          "score": 148,
+          "flagCaptures": 2,
+          "flagReturns": 9,
+          "flagSteals": 7,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 32
+          }
+        },
+        "godfather": {
+          "deaths": 32,
+          "kills": 26,
+          "gamesPlayed": 1,
+          "score": 117,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 8,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 1,
+            "M4": 24
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 35,
+          "kills": 28,
+          "gamesPlayed": 1,
+          "score": 103,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 10,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 23
+          }
+        },
+        "TAl": {
+          "deaths": 33,
+          "kills": 34,
+          "gamesPlayed": 1,
+          "score": 108,
+          "flagCaptures": 1,
+          "flagReturns": 4,
+          "flagSteals": 7,
+          "name": "TAl",
+          "weapons": {
+            "M4": 32,
+            "UMP45": 2
+          }
+        },
+        "Ed": {
+          "deaths": 32,
+          "kills": 45,
+          "gamesPlayed": 1,
+          "score": 150,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 5,
+          "name": "Ed",
+          "weapons": {
+            "M4": 44
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "PanzerjagerTiger",
+        "1": "**KILAKA**",
+        "2": "MAMBA",
+        "3": "Bar",
+        "4": "Ed",
+        "5": "godfather",
+        "6": "TAl",
+        "7": "yourself",
+        "8": "benD"
+      }
+    },
+    "6_sanc": {
+      "gameId": "6_sanc",
+      "mapName": "sanc",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:0  blue:3 ",
+      "gameTotalDeaths": 138,
+      "gameTotalScore": 373,
+      "gameLength": "15:41",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "Bar": {
+          "deaths": 20,
+          "kills": 5,
+          "gamesPlayed": 1,
+          "score": 38,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 0,
+          "name": "Bar",
+          "weapons": {
+            "M4": 5
+          }
+        },
+        "MAMBA": {
+          "deaths": 15,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 16,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 4,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 13
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 15,
+          "kills": 21,
+          "gamesPlayed": 1,
+          "score": 25,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 3,
+          "name": "**KILAKA**",
+          "weapons": {
+            "M4": 19
+          }
+        },
+        "benD": {
+          "deaths": 6,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 37,
+          "flagCaptures": 0,
+          "flagReturns": 0,
+          "flagSteals": 1,
+          "name": "benD",
+          "weapons": {
+            "M4": 6,
+            "HEGRENADE": 1
+          }
+        },
+        "yourself": {
+          "deaths": 21,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 77,
+          "flagCaptures": 1,
+          "flagReturns": 5,
+          "flagSteals": 7,
+          "name": "yourself",
+          "weapons": {
+            "AK103": 21
+          }
+        },
+        "godfather": {
+          "deaths": 20,
+          "kills": 16,
+          "gamesPlayed": 1,
+          "score": 65,
+          "flagCaptures": 1,
+          "flagReturns": 3,
+          "flagSteals": 1,
+          "name": "godfather",
+          "weapons": {
+            "DEAGLE": 2,
+            "M4": 14
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 14,
+          "kills": 22,
+          "gamesPlayed": 1,
+          "score": 34,
+          "flagCaptures": 0,
+          "flagReturns": 4,
+          "flagSteals": 1,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 22
+          }
+        },
+        "TAl": {
+          "deaths": 11,
+          "kills": 14,
+          "gamesPlayed": 1,
+          "score": 15,
+          "flagCaptures": 0,
+          "flagReturns": 1,
+          "flagSteals": 1,
+          "name": "TAl",
+          "weapons": {
+            "M4": 10,
+            "UMP45": 4
+          }
+        },
+        "Ed": {
+          "deaths": 16,
+          "kills": 17,
+          "gamesPlayed": 1,
+          "score": 66,
+          "flagCaptures": 1,
+          "flagReturns": 2,
+          "flagSteals": 2,
+          "name": "Ed",
+          "weapons": {
+            "M4": 13
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "PanzerjagerTiger",
+        "1": "**KILAKA**",
+        "2": "MAMBA",
+        "3": "Bar",
+        "4": "Ed",
+        "5": "godfather",
+        "6": "TAl",
+        "7": "yourself",
+        "8": "benD"
+      }
+    },
+    "24_kingdom": {
+      "gameId": "24_kingdom",
+      "mapName": "kingdom",
+      "gameType": "Capture The Flag",
+      "gameResult": "Round 1:  red:4  blue:3 ",
+      "gameTotalDeaths": 59,
+      "gameTotalScore": 274,
+      "gameLength": "16:59",
+      "gameEndReason": "Timelimit hit.",
+      "gameDate": "Jan 25, 2017 6:23:01 PM",
+      "gameRounds": 1,
+      "players": {
+        "MAMBA": {
+          "deaths": 18,
+          "kills": 18,
+          "gamesPlayed": 1,
+          "score": 83,
+          "flagCaptures": 1,
+          "flagReturns": 9,
+          "flagSteals": 5,
+          "name": "MAMBA",
+          "weapons": {
+            "M4": 16
+          }
+        },
+        "**KILAKA**": {
+          "deaths": 16,
+          "kills": 20,
+          "gamesPlayed": 1,
+          "score": 67,
+          "flagCaptures": 1,
+          "flagReturns": 6,
+          "flagSteals": 6,
+          "name": "**KILAKA**",
+          "weapons": {
+            "NEGEV": 17
+          }
+        },
+        "PanzerjagerTiger": {
+          "deaths": 10,
+          "kills": 13,
+          "gamesPlayed": 1,
+          "score": 57,
+          "flagCaptures": 2,
+          "flagReturns": 2,
+          "flagSteals": 8,
+          "name": "PanzerjagerTiger",
+          "weapons": {
+            "M4": 12
+          }
+        },
+        "Ed": {
+          "deaths": 15,
+          "kills": 8,
+          "gamesPlayed": 1,
+          "score": 67,
+          "flagCaptures": 3,
+          "flagReturns": 4,
+          "flagSteals": 5,
+          "name": "Ed",
+          "weapons": {
+            "M4": 8
+          }
+        }
+      },
+      "playersRegister": {
+        "0": "MAMBA",
+        "1": "PanzerjagerTiger",
+        "2": "Ed",
+        "3": "**KILAKA**"
+      }
+    }
+  }
+}

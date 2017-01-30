@@ -4,8 +4,8 @@ import {FormsModule} from '@angular/forms';
 import {HttpModule} from '@angular/http';
 
 import {AppComponent} from './app.component';
-import {PendulumLoaderComponent} from './pendulum-loader/pendulum-loader.component';
-import {ContentPageComponent} from './content-page/content-page.component';
+import {PendulumLoaderComponent} from './urt/pendulum-loader/pendulum-loader.component';
+import {ContentPageComponent} from './urt/content-page/content-page.component';
 
 @NgModule({
     declarations: [
@@ -22,4 +22,5 @@ import {ContentPageComponent} from './content-page/content-page.component';
     bootstrap: [AppComponent]
 })
 export class AppModule {
+
 }

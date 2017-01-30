@@ -1,11 +1,9 @@
-<div>
-    <PendulumLoaderComponent></PendulumLoaderComponent>
-    <div id="main" class="background-cover start-invisible">
+<div class="root">
+    <pendulum-loader [ngClass]="{'fadeout' : isDataReady}" style="position: absolute; align-self: center;"></pendulum-loader>
+    <div [ngClass]="{'fadein' : isDataReady}" class="content-page-container background-cover start-invisible">
         <div class="title inset-text-effect">Urban Terror<br>HPE SaaS Clan</div>
-        <div id="centermain">
-            <ComponentPage id="react-container">
-
-            </ComponentPage>
+        <div>
+            <content-page id="react-container"></content-page>
         </div>
     </div>
 </div>

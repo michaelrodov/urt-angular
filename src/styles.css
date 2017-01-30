@@ -1,1 +1,52 @@
 /* You can add global styles to this file, and also import other style files */
+/*fade in animation*/
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.fadein {
+    opacity: 0;
+    animation-name: fadein;
+    animation-duration: 1200ms;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.fadeout {
+    opacity: 1;
+    animation-name: fadeout;
+    animation-duration: 300ms;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+.inset-text-effect {
+    display: inline-block;
+    box-sizing: content-box;
+    border: none;
+    text-align: center;
+    text-overflow: clip;
+    white-space: pre;
+    color: #888888;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.7), -1px -1px 1px rgba(0, 0, 0, 0.7);
+}
+
+.inset-text-effect::selection {
+    background: #5af;
+    color: #fff;
+    text-shadow: none;
+}

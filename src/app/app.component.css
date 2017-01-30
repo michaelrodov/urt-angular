@@ -1,0 +1,40 @@
+.root {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.background-cover {
+    background-size: cover;
+    background: #d4d2d2 url(assets/img/cod-1920x1200-1-min.jpg) fixed top center;
+    background-blend-mode: darken;
+}
+
+.start-invisible {
+    opacity: 0;
+}
+
+.title {
+    margin: 20px;
+    z-index: -1;
+    position: fixed;
+    right: 70px;
+    font-size: 30px;
+    letter-spacing: normal;
+    font-family: 'Stardos Stencil', cursive;
+}
+
+.content-page-container {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    flex-flow: row;
+    padding-top: 30px;
+    overflow-y: scroll;
+}
