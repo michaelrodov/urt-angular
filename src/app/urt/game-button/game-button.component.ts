@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, Input} from '@angular/core';
 
 @Component({
   selector: 'game-button',
@@ -7,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GameButtonComponent implements OnInit {
 
-  constructor() { }
+    @Input('label') label : string;
+
+  constructor() {
+
+  }
 
   ngOnInit() {
   }

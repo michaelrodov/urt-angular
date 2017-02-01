@@ -1,16 +1,16 @@
-<!--<div className="pane flex-rows center-top-container">-->
-    <!--<div className="generator-pane">-->
-        <!--<div className="teams-container">-->
-            <!--<teams-table className="redteam" teamPlayerKeys={storeState.teams[configs.RED]} ></teams-table>-->
+<div className="flex-rows center-top-container"  style="{background-color: red}">
+    <div className="generator-pane">
+        <div className="teams-container" style="{background-color: red}">
+            <teams-table className="redteam" namesList="['p1','p2']"></teams-table>
             <!--<teams-pie columns={storeState.columns} ></teams-pie>-->
-            <!--<teams-table className="blueteam" teamPlayerKeys={storeState.teams[configs.BLUE]} ></teams-table>-->
-        <!--</div>-->
-        <!--<div className="power-pie-controller">-->
+            <teams-table className="blueteam" namesList="['p3','p4']"></teams-table>
+        </div>
+        <div className="power-pie-controller">
             <!--<game-button name="Build" color="primary" action={actions.buildTeams} store={this.props.store} ></game-button>-->
-        <!--</div>-->
-    <!--</div>-->
-<!--</div>-->
-<!--<div className="flex-rows center-bottom-container">-->
-    <!--<game-list store={this.props.store} ></game-list>-->
+        </div>
+    </div>
+</div>
+<div className="flex-rows center-bottom-container" style="{background-color: #55aaff}">
+    <game-list [games]="['g1','g2','g3']" ></game-list>
     <!--<game-details store={this.props.store} ></game-details>-->
-<!--</div>-->
+</div>

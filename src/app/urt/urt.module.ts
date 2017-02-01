@@ -12,6 +12,7 @@ import {TeamsPieComponent} from './teams-pie/teams-pie.component';
 import {TeamsTableComponent} from './teams-table/teams-table.component';
 import {ContentPageComponent} from "./content-page/content-page.component";
 import {PendulumLoaderComponent} from "./pendulum-loader/pendulum-loader.component";
+import { ReplacePipe } from './replace.pipe';
 
 @NgModule({
     imports: [
@@ -30,7 +31,8 @@ import {PendulumLoaderComponent} from "./pendulum-loader/pendulum-loader.compone
         GamesSummaryComponent,
         TeamsPieComponent,
         TeamsTableComponent,
-        PendulumLoaderComponent
+        PendulumLoaderComponent,
+        ReplacePipe
     ],
     exports: [ContentPageComponent]
 })

@@ -34,6 +34,51 @@
     animation-fill-mode: forwards;
 }
 
+.flex-columns {
+    display: flex;
+    flex-flow: column;
+}
+
+.flex-rows {
+    display: flex;
+    flex-flow: row;
+}
+
+.th__clickable {
+    cursor: pointer !important;
+}
+
+.th__clickable.clicked {
+    background-color: #809e2f;
+    transition: background-color 2s ease-in-out;
+}
+
+.th__clickable > span.asc:after {
+    position: absolute;
+    content: no-close-quote;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid black;
+}
+
+.th__clickable > span.desc:after {
+    position: absolute;
+    content: no-close-quote;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid black;
+}
+
+.symbol {
+    font-family: Significante;
+
+}
+
+/*effects*/
 .inset-text-effect {
     display: inline-block;
     box-sizing: content-box;

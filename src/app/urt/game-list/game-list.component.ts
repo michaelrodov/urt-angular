@@ -1,15 +1,21 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, Input} from '@angular/core';
 
 @Component({
-  selector: 'game-list',
-  templateUrl: './game-list.component.html',
-  styleUrls: ['./game-list.component.css']
+    selector: 'game-list',
+    templateUrl: './game-list.component.html',
+    styleUrls: ['./game-list.component.css']
 })
 export class GameListComponent implements OnInit {
 
-  constructor() { }
+    @Input('games') gamesList : string[];
 
-  ngOnInit() {
-  }
+    constructor() {
+    }
 
+    ngOnInit() {
+    }
+
+    public setActiveGame = (gameKey) => {
+        //TODO emit redux event: change active game
+    }
 }

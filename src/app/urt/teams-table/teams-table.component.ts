@@ -1,15 +1,18 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, Input} from '@angular/core';
 
 @Component({
-  selector: 'teams-table',
-  templateUrl: './teams-table.component.html',
-  styleUrls: ['./teams-table.component.css']
+    selector: 'teams-table',
+    templateUrl: './teams-table.component.html',
+    styleUrls: ['./teams-table.component.css']
 })
 export class TeamsTableComponent implements OnInit {
 
-  constructor() { }
+    @Input("namesList") namesList: string[];
 
-  ngOnInit() {
-  }
+    constructor() {
+    }
+
+    ngOnInit() {
+    }
 
 }
