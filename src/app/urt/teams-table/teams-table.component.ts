@@ -7,7 +7,7 @@ import {Component, OnInit, Input} from '@angular/core';
 })
 export class TeamsTableComponent implements OnInit {
 
-    @Input("namesList") namesList: string[];
+    @Input('namesList') namesList: string[];
 
     constructor() {
     }

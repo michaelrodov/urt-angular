@@ -1,7 +1,7 @@
 <div>
     <table>
         <tbody>
-            <div *ngFor="let name in namesList">
+            <div *ngFor="let name of namesList; let idx = index">
                 {{name}}
             </div>
         </tbody>

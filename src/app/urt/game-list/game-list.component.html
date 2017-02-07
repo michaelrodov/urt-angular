@@ -1,3 +1,6 @@
 <div className="games-pane">
-    <game-button *ngFor="let game of gamesList" [label]="game" (click)="setActiveGame(game)"></game-button>
+    <game-button *ngFor="let game of gamesList; let inx = index"
+                 [label]="game"
+                 (click)="setActiveGame(game)">
+    </game-button>
 </div>)

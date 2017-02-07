@@ -1,9 +1,9 @@
 <div className="flex-rows center-top-container"  style="{background-color: red}">
     <div className="generator-pane">
         <div className="teams-container" style="{background-color: red}">
-            <teams-table className="redteam" namesList="['p1','p2']"></teams-table>
+            <teams-table className="redteam" [namesList]="['p1','p2']"></teams-table>
             <!--<teams-pie columns={storeState.columns} ></teams-pie>-->
-            <teams-table className="blueteam" namesList="['p3','p4']"></teams-table>
+            <teams-table className="blueteam" [namesList]="['p3','p4']"></teams-table>
         </div>
         <div className="power-pie-controller">
             <!--<game-button name="Build" color="primary" action={actions.buildTeams} store={this.props.store} ></game-button>-->
