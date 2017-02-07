@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {GeneralsService} from "../generals.service";
 
 @Component({
   selector: 'teams-pie',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TeamsPieComponent implements OnInit {
 
-  constructor() { }
+  constructor(private generals : GeneralsService) { }
 
   ngOnInit() {
+      this.generals.generatePowerPie([111,222]);
+
   }
 
 }

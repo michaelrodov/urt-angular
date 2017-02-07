@@ -1,16 +1,16 @@
-<div className="flex-rows center-top-container"  style="{background-color: red}">
-    <div className="generator-pane">
-        <div className="teams-container" style="{background-color: red}">
-            <teams-table className="redteam" [namesList]="['p1','p2']"></teams-table>
+<div class="flex-rows center-top-container"  style="{background-color: red}">
+    <div class="generator-pane">
+        <div class="teams-container" style="{background-color: red}">
+            <teams-table class="redteam" [namesList]="['Panzer','Kilaka','BenD']"></teams-table>
             <!--<teams-pie columns={storeState.columns} ></teams-pie>-->
-            <teams-table className="blueteam" [namesList]="['p3','p4']"></teams-table>
+            <teams-table class="blueteam" [namesList]="['MAMBA','Amir']"></teams-table>
         </div>
-        <div className="power-pie-controller">
+        <div class="power-pie-controller">
             <!--<game-button name="Build" color="primary" action={actions.buildTeams} store={this.props.store} ></game-button>-->
         </div>
     </div>
 </div>
-<div className="flex-rows center-bottom-container" style="{background-color: #55aaff}">
-    <game-list [games]="['g1','g2','g3']" ></game-list>
+<div class="flex-rows center-bottom-container" style="{background-color: #55aaff}">
+    <game-list [games]="['ut4_mikonos','ut4_riyadh','ut4_abbey']" ></game-list>
     <!--<game-details store={this.props.store} ></game-details>-->
 </div>
