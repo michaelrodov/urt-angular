@@ -2,7 +2,7 @@
     <div class="generator-pane">
         <div class="teams-container" style="{background-color: red}">
             <teams-table class="redteam" [namesList]="['Panzer','Kilaka','BenD']"></teams-table>
-            <!--<teams-pie columns={storeState.columns} ></teams-pie>-->
+            <app-pie-chart [values]="[30,70]"></app-pie-chart>
             <teams-table class="blueteam" [namesList]="['MAMBA','Amir']"></teams-table>
         </div>
         <div class="power-pie-controller">

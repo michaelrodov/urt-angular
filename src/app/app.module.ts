@@ -12,6 +12,10 @@ import {GameListComponent} from "./urt/game-list/game-list.component";
 import {GameDetailsComponent} from "./urt/game-details/game-details.component";
 import {GameButtonComponent} from "./urt/game-button/game-button.component";
 import {ReplacePipe} from "./urt/replace.pipe";
+import { PieChartComponent } from './pie-chart/pie-chart.component';
+import {ChartsModule} from "ng2-charts";
+import {ReduxService} from "./redux/redux.service";
+
 
 @NgModule({
     declarations: [
@@ -23,16 +27,21 @@ import {ReplacePipe} from "./urt/replace.pipe";
         GameListComponent,
         GameDetailsComponent,
         GameButtonComponent,
-        ReplacePipe
+        ReplacePipe,
+        PieChartComponent,
+        ReduxService
     ],
     imports: [
         BrowserModule,
         FormsModule,
-        HttpModule
+        HttpModule,
+        ChartsModule,
+        ReduxService
     ],
     providers: [],
     bootstrap: [AppComponent]
 })
+
 export class AppModule {
 
 }
